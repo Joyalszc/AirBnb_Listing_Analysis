@@ -8,3 +8,4 @@ Second objective is to produce DataFrames that will be used in visualizations by
 Final objective is to build visuals to show the number of new hosts by year, overall average price by year and neighborhood, and average price for various types of listings in Paris' most expensive neighborhood.
 
 Guided Project from Maven Analytics
+Data source is available on Maven Analytics
